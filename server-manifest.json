@@ -1,7 +1,7 @@
 {
   "name": "1.20.1-IKUN_3058",
   "author": "IKUN_3058",
-  "version": "1.0",
+  "version": "30.58",
   "description": "",
   "fileApi": "https://modpack.131124.xyz",
   "files": [
@@ -42,11 +42,11 @@
       "hash": "41f146d16a37f62e84e60cab226058d1a87f9cec"
     },
     {
-      "path": "mods/[TACZ：重织]TACZ-Refabricated-1.20.1-0.4.1-forge1.1.7-hotfix.jar",
+      "path": "mods/[TACZ重织]TACZ-Refabricated-1.20.1-0.4.1-forge1.1.7-hotfix.jar",
       "hash": "769f23d1cf5b9acd34be61947123f89b5bb8f9fc"
     },
     {
-      "path": "mods/[Tweakeroo、投影前置]malilib-fabric-1.20.1-0.16.3.jar",
+      "path": "mods/[Tweakeroo+投影前置]malilib-fabric-1.20.1-0.16.3.jar",
       "hash": "94d4dd8a82e493d956b423019134d8c48ee737be"
     },
     {
@@ -82,11 +82,11 @@
       "hash": "c977fa7e3b3d19ff17d39004cc8b28b0b260749c"
     },
     {
-      "path": "mods/[投影] litematica-fabric-1.20.1-0.15.4.jar",
+      "path": "mods/[投影]litematica-fabric-1.20.1-0.15.4.jar",
       "hash": "68bc88228d567ec0c56dd5d308d51c4cb5eab3ff"
     },
     {
-      "path": "mods/[搬运] carryon-fabric-1.20.1-2.1.2.7.jar",
+      "path": "mods/[搬运]carryon-fabric-1.20.1-2.1.2.7.jar",
       "hash": "8f3858977becfbc26f67f4a5579881e15e07d69d"
     },
     {
@@ -110,11 +110,11 @@
       "hash": "ed0383ed8c68e1d1cbfc61267afee028d8a4d7fe"
     },
     {
-      "path": "mods/[模组菜单] modmenu-7.2.2.jar",
+      "path": "mods/[模组菜单]modmenu-7.2.2.jar",
       "hash": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a"
     },
     {
-      "path": "mods/[物品高亮显示 ] Jade-1.20-Fabric-11.13.1.jar",
+      "path": "mods/[物品高亮显示]Jade-1.20-Fabric-11.13.1.jar",
       "hash": "511ff9de2b9322089e769433f8613f3ac16bdade"
     },
     {
@@ -122,7 +122,7 @@
       "hash": "b9b3908c93efed3da5ad7caaf733b9d5b678c85f"
     },
     {
-      "path": "mods/[自定义局域网联机] lanserverproperties-1.11.1-fabric.jar",
+      "path": "mods/[自定义局域网联机]lanserverproperties-1.11.1-fabric.jar",
       "hash": "875575b9764cf1f88d69e5035b9b7e166d672d22"
     },
     {
@@ -138,7 +138,7 @@
       "hash": "7b36c55155d6320287007491818a23bd1c23b2b3"
     },
     {
-      "path": "mods/[钠] sodium-fabric-0.5.13+mc1.20.1.jar",
+      "path": "mods/[钠]sodium-fabric-0.5.13+mc1.20.1.jar",
       "hash": "bcdbf37d9494e405cba210d7a80ed58e756297b5"
     },
     {
