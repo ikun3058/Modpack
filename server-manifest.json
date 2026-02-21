@@ -1,0 +1,183 @@
+{
+  "name": "1.20.1-IKUN_3058",
+  "author": "IKUN_3058",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://modpack.131124.xyz",
+  "files": [
+    {
+      "path": "mods/[Fabric API]fabric-api-0.92.7+1.20.1.jar",
+      "hash": "85117a1e8984a45c972b85571c8e075cee45039a"
+    },
+    {
+      "path": "mods/[FerriteCor]ferritecore-6.0.1-fabric.jar",
+      "hash": "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa"
+    },
+    {
+      "path": "mods/[HUD+]inventoryhud.fabric.1.20.1-3.4.26.jar",
+      "hash": "623f71c059bc26c57c0e45ea2f5e00090496e40a"
+    },
+    {
+      "path": "mods/[ImmediatelyFast]ImmediatelyFast-Fabric-1.5.4+1.20.4.jar",
+      "hash": "bb9e7a507bb7a442cba451d79b5c1fde74aea07c"
+    },
+    {
+      "path": "mods/[Indium]indium-1.0.36+mc1.20.1.jar",
+      "hash": "d824614e7a173d273167969f427702f51846aca7"
+    },
+    {
+      "path": "mods/[JEI菜单]jei-1.20.1-fabric-15.20.0.129.jar",
+      "hash": "5f3633e768fabe6a9a99d1fb536b730f7c038b04"
+    },
+    {
+      "path": "mods/[Lithium]lithium-fabric-mc1.20.1-0.11.4.jar",
+      "hash": "048227ed60a3005cf9fa55880dfe0cf20b0ba680"
+    },
+    {
+      "path": "mods/[SYC语音MOD]voicechat-fabric-1.20.1-2.6.12.jar",
+      "hash": "10d85fe22af43d6bfde61b188dfce45c2d13fe7f"
+    },
+    {
+      "path": "mods/[TACZ前置]ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+      "hash": "41f146d16a37f62e84e60cab226058d1a87f9cec"
+    },
+    {
+      "path": "mods/[TACZ：重织]TACZ-Refabricated-1.20.1-0.4.1-forge1.1.7-hotfix.jar",
+      "hash": "769f23d1cf5b9acd34be61947123f89b5bb8f9fc"
+    },
+    {
+      "path": "mods/[Tweakeroo、投影前置]malilib-fabric-1.20.1-0.16.3.jar",
+      "hash": "94d4dd8a82e493d956b423019134d8c48ee737be"
+    },
+    {
+      "path": "mods/[Tweakeroo辅助模组]tweakeroo-fabric-1.20.1-0.17.1.jar",
+      "hash": "2a18f5905f9e10c6a3b45388b4401ec135b3b3cf"
+    },
+    {
+      "path": "mods/[Xaero的世界地图]xaeroworldmap-fabric-1.20.1-1.40.11.jar",
+      "hash": "b4f34e57f3bca8b98bf445e870e0acd1bd60856d"
+    },
+    {
+      "path": "mods/[Xaero的小地图]xaerominimap-fabric-1.20.1-25.3.10.jar",
+      "hash": "2fc54c6af762147657ec0c06c03e2fd0339783ee"
+    },
+    {
+      "path": "mods/[一键背包整理Next]InventoryProfilesNext-fabric-1.20-1.10.20.jar",
+      "hash": "e45676c4193d69b0eb0ebdb7881a6daeb36a9b5e"
+    },
+    {
+      "path": "mods/[一键背包整理前置]fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+      "hash": "20b2200961e11994595ebb2d5f6624f232d13751"
+    },
+    {
+      "path": "mods/[一键背包整理前置]libIPN-fabric-1.20-4.0.2.jar",
+      "hash": "c8c4d93037efb226b6bd3264e33df4c010cb111b"
+    },
+    {
+      "path": "mods/[光影]iris-1.7.6+mc1.20.1.jar",
+      "hash": "880c0b9ce38bb4997645793407c1801df83f4233"
+    },
+    {
+      "path": "mods/[击杀图标gd656killicon]-1.0.0RC5-1.20.1-fabric.jar",
+      "hash": "c977fa7e3b3d19ff17d39004cc8b28b0b260749c"
+    },
+    {
+      "path": "mods/[投影] litematica-fabric-1.20.1-0.15.4.jar",
+      "hash": "68bc88228d567ec0c56dd5d308d51c4cb5eab3ff"
+    },
+    {
+      "path": "mods/[搬运] carryon-fabric-1.20.1-2.1.2.7.jar",
+      "hash": "8f3858977becfbc26f67f4a5579881e15e07d69d"
+    },
+    {
+      "path": "mods/[旅行者背包]travelersbackpack-fabric-1.20.1-9.1.50.jar",
+      "hash": "31d069954214cf554fa737f0f56ec6634e08a7b8"
+    },
+    {
+      "path": "mods/[旅行者背包前置]cardinal-components-api-5.2.3.jar",
+      "hash": "d0d687d8fc3f367bf696fa0059bccdf0591c51f4"
+    },
+    {
+      "path": "mods/[旅行者背包前置]cloth-config-11.1.136-fabric.jar",
+      "hash": "d5fe84a0cc9ed5c7290a76ba570e1f8716afecab"
+    },
+    {
+      "path": "mods/[旅行者背包前置]trinkets-3.7.2.jar",
+      "hash": "d58cc8759587f03f320f188972ca66baa788d008"
+    },
+    {
+      "path": "mods/[更好的F3]BetterF3-7.0.2-Fabric-1.20.1.jar",
+      "hash": "ed0383ed8c68e1d1cbfc61267afee028d8a4d7fe"
+    },
+    {
+      "path": "mods/[模组菜单] modmenu-7.2.2.jar",
+      "hash": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a"
+    },
+    {
+      "path": "mods/[物品高亮显示 ] Jade-1.20-Fabric-11.13.1.jar",
+      "hash": "511ff9de2b9322089e769433f8613f3ac16bdade"
+    },
+    {
+      "path": "mods/[矿物发光的前置]continuity-3.0.0+1.20.1.jar",
+      "hash": "b9b3908c93efed3da5ad7caaf733b9d5b678c85f"
+    },
+    {
+      "path": "mods/[自定义局域网联机] lanserverproperties-1.11.1-fabric.jar",
+      "hash": "875575b9764cf1f88d69e5035b9b7e166d672d22"
+    },
+    {
+      "path": "mods/[苹果皮]appleskin-fabric-mc1.20.1-2.5.2.jar",
+      "hash": "f859bb13130788ae2dc2e76a9c80c89e4bbbef5f"
+    },
+    {
+      "path": "mods/[输入法冲突]IMBlocker-5.4.6-fabric+1.17-1.21.8.jar",
+      "hash": "ce1c4d59fe5f98d475c66832aa0a18c6a6795d1e"
+    },
+    {
+      "path": "mods/[连锁挖掘] diggusmaximus-1.5.9-1.20.jar",
+      "hash": "7b36c55155d6320287007491818a23bd1c23b2b3"
+    },
+    {
+      "path": "mods/[钠] sodium-fabric-0.5.13+mc1.20.1.jar",
+      "hash": "bcdbf37d9494e405cba210d7a80ed58e756297b5"
+    },
+    {
+      "path": "resourcepacks/[Masa汉化包]1.20-masa-mods-chinese.zip",
+      "hash": "6841651b6295323d306b291beca2553f308a5701"
+    },
+    {
+      "path": "resourcepacks/[界面优化]§cCozyUI§b+ §7v1.10 §0.zip",
+      "hash": "f2d3ec590d99a2706ce08bf73bea35df98836591"
+    },
+    {
+      "path": "resourcepacks/[矿物发光]NewGlowingOres§6[BV-1.3][1.20].zip",
+      "hash": "5386de443f769021ac09e7be77f04faf4198b7bf"
+    },
+    {
+      "path": "resourcepacks/[矿透材质]Xray_Ultimate_1.20.1_v4.2.5.zip",
+      "hash": "326383a8ec25574ec9ac9a51dfb3d2c98459b010"
+    },
+    {
+      "path": "resourcepacks/[详细动画]DetailedAnimationsReworked - V1.15.zip",
+      "hash": "1d0ac0d5d7514a3df02de06a598ae95697339a21"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "6dfc6af40746e108cef6333f93fd80be6d46bbcc"
+    },
+    {
+      "path": "tacz/MCS2_Gunpack_v1.0.4_AWP_tacz1.1.4_hotfix3.zip",
+      "hash": "151bfd88ae66bfb13d5a0f01956b5494cb0fdda0"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "fabric",
+      "version": "0.18.4"
+    }
+  ]
+}
